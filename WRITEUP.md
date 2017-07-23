@@ -1,3 +1,5 @@
+# Couldn't get this to show up correctly, so I creaded "writeup.pdf"  I'd appreciate some tips on how to get this markdown file to show up correctly.
+
 #**Traffic Sign Recognition** 
 
 ##Writeup Template
